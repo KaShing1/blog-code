@@ -1,0 +1,49 @@
+menu:
+  Home: /
+  About: /about
+  Archives: /archives
+
+widgets: 
+- search
+- about_me
+- category
+- tag
+- recent_posts
+- links
+- weibo
+- duoshuo_recent_comments
+
+excerpt_link: 阅读全文
+
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+#  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+
+fancybox: true
+
+google_analytics:
+rss:
+
+links:
+- name: Kashing's Blog
+  link: http://Kashing1.github.io
+
+duoshuo: kashing
+about_me:
+  title: 关于我
+  avatar: /uploads/小丸子.jpg
+  texts:
+  - <a href="/about" target="_BLANK">Kashing</a>
+  - hallo , everyone
+  - <br>
