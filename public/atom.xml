@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Kashing's Blog]]></title>
+  <subtitle><![CDATA[沿途旅程，如歌褪变]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-02-12T01:23:00.940Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[Kashing]]></name>
+    <email><![CDATA[397846910@qq.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[林夕词集]]></title>
+    <link href="http://yoursite.com/2015/02/08/%E6%9E%97%E5%A4%95%E8%AF%8D%E9%9B%86/"/>
+    <id>http://yoursite.com/2015/02/08/林夕词集/</id>
+    <published>2015-02-08T08:17:24.000Z</published>
+    <updated>2015-02-12T01:22:17.877Z</updated>
+    <content type="html"><![CDATA[<h2 id="如果我听歌可眼红_何以待你好偏不懂—-林夕">如果我听歌可眼红 何以待你好偏不懂—-林夕</h2>
+<p><img src="/images/林夕.jpg" alt="林夕，梦"><br><a id="more"></a></p>
+<hr>
+<ul>
+<li><p>从出生当天角色早已礼成 只可合照缩影   -《尘埃落定》</p>
+</li>
+<li><p>我甘于当副车 也是快乐着唏嘘   -《钟无艳》</p>
+</li>
+<li><p>随时能欢喜亦随时嫌弃，不用再记起怎去忘记   -《失忆蝴蝶》</p>
+</li>
+</ul>
+<hr>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="如果我听歌可眼红_何以待你好偏不懂—-林夕">如果我听歌可眼红 何以待你好偏不懂—-林夕</h2>
+<p><img src="/images/林夕.jpg" alt="林夕，梦"><br>]]>
+    
+    </summary>
+    
+      <category term="林夕" scheme="http://yoursite.com/tags/%E6%9E%97%E5%A4%95/"/>
+    
+      <category term="心情" scheme="http://yoursite.com/categories/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[你好，世界]]></title>
+    <link href="http://yoursite.com/2015/02/07/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    <id>http://yoursite.com/2015/02/07/你好，世界/</id>
+    <published>2015-02-07T04:47:33.000Z</published>
+    <updated>2015-02-08T08:16:34.212Z</updated>
+    <content type="html"><![CDATA[<h1 id="2015">2015</h1>
+<h2 id="你好，世界">你好，世界</h2>
+<p><img src="/images/husky.jpg" alt="hello world"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="2015">2015</h1>
+<h2 id="你好，世界">你好，世界</h2>
+<p><img src="/images/husky.jpg" alt="hello world"></p>
+]]>
+    </summary>
+    
+      <category term="你好，世界" scheme="http://yoursite.com/tags/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E4%B8%96%E7%95%8C/"/>
+    
+      <category term="心情" scheme="http://yoursite.com/categories/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+</feed>
